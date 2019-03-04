@@ -4,7 +4,33 @@
     <meta charset="utf-8" />
     <title>WEEK_08</title>
     <link href="css/default.css" rel="stylesheet" />
+
+
+    <script>
+        var addNumbers = {
+            sum: 0,
+            starter: 1109,
+            stepdown: 11,
+            stopnumber: 119,
+            adder: function () {
+
+                for (i = starter; i >= stopnumber; i -= stepdown) {
+                    sum += i;
+                }
+                return sum;
+            }
+
+        };
+        document.write(addNumbers.adder());
+    </script>
+
+
+
+
+
+
 </head>
+
 <body>
     <div>Content goes here!</div>
     <script src="js/main.js"></script>
