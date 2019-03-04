@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "WEEK-08", "WEEK-08\WEEK-08.jsproj", "{F429E6E7-358A-4E29-B364-41BD766EEDA0}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "WEEK-09", "WEEK-08\WEEK-09.jsproj", "{F429E6E7-358A-4E29-B364-41BD766EEDA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
